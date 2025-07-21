@@ -1,6 +1,8 @@
 # QuadCooler
 Laptop Cooling Solution
 
+<img width="794" height="401" alt="Screenshot 2025-07-20 224919" src="https://github.com/user-attachments/assets/fcaa633a-adbc-4cce-b837-bd6f0f0e0c0e" />
+
 ## Why I made this project
 Gaming laptops run hot and noisy, and I thought this would be a fun project. I wanted something that I could use to make it run silent, while still having some portablity for backpack transport.
 
