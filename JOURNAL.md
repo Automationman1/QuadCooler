@@ -34,3 +34,8 @@ Time spent: 2 hours
 I created the BOM, which required some research for components, and the Github Repository.
 
 Time spent: 3 hours
+
+# QuadCooler Day 5 8/15/2025
+I added the Laptop integration to the CAD model.
+<img width="748" height="453" alt="Screenshot 2025-08-15 114546" src="https://github.com/user-attachments/assets/899f439b-cab7-4651-8126-4d133d97cdc0" />
+
