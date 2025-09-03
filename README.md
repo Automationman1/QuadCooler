@@ -2,6 +2,9 @@
 Laptop Cooling Solution
 
 <img width="794" height="401" alt="Screenshot 2025-07-20 224919" src="https://github.com/user-attachments/assets/fcaa633a-adbc-4cce-b837-bd6f0f0e0c0e" />
+<img width="1054" height="753" alt="Screenshot 2025-09-02 213857" src="https://github.com/user-attachments/assets/1871e6f7-4d35-496a-9659-75f65257ffae" />
+<img width="1091" height="774" alt="Screenshot 2025-09-02 213908" src="https://github.com/user-attachments/assets/864b7036-0e07-48b5-ab61-cb3dbd81a768" />
+<img width="1070" height="704" alt="Screenshot 2025-09-02 213923" src="https://github.com/user-attachments/assets/f586fe74-76e2-4cd4-809a-5e5a6910d67a" />
 
 ## Why I made this project
 Gaming laptops run hot and noisy, and I thought this would be a fun project. I wanted something that I could use to make it run silent, while still having some portablity for backpack transport.
@@ -11,6 +14,10 @@ Gaming laptops run hot and noisy, and I thought this would be a fun project. I w
  - Designed around standard gaming laptops
  - Sleek aesthetic
  - Runs Quiet
+## Electronics
+The QuadCooler keeps a relatively simplistic design for electronics to increase reliability, using an Owltree fan controller that hooks up to the laptop via USB C that then is run into a fan splitter to distribute power evenly to the ThermalRight fans.
+
+<img width="1067" height="1151" alt="Screenshot 2025-09-02 213505" src="https://github.com/user-attachments/assets/36b86b56-2656-4a6f-9db5-ac7e2030f11c" />
 
 | Item | Price(USD) | Link |
 | --- | --- | --- |
